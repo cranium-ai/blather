@@ -5,3 +5,4 @@ pytest
 tqdm==4.67.0 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:0cd8af9d56911acab92182e88d763100d4788bdf421d251616040cc4d44863be \
     --hash=sha256:fe5a6f95e6fe0b9755e9469b77b9c3cf850048224ecaa8293d7d2d31f97d869a
+yarl==1.17.1 ; python_version >= "3.11" and python_version < "4.0"
