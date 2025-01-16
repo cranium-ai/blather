@@ -1,7 +1,7 @@
 --extra-index-url https://pkgs.dev.azure.com/CraniumAI-Dev/Cranium/_packaging/Cranium-Pypi/pypi/simple
 
 torch==3.19.1 #add comment to see how parsing is done
-transformers
+transformers=1.0.0 # this comment is definitely going to be way over the 50 character limit allowed in vulnerability assessments
 pandas
 pytest
 tqdm==4.67.0 ; python_version >= "3.11" and python_version < "4.0" \
