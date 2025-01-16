@@ -1,4 +1,4 @@
-torch #add comment to see how parsing is done
+torch=3.19.1#add comment to see how parsing is done
 transformers
 pandas
 pytest
